@@ -1,4 +1,4 @@
-# AndroidApp---Second_Order_Systems
+# Android Application for visualising the response of second-order control system (_Matlab App Designer_)
 
 This MATLAB App Designer application provides a user-friendly interface for analyzing and visualizing the response of a second-order control system in real-time. The app allows users to manipulate the parameters of a standard second-order transfer function and observe the corresponding changes in various plots and diagrams.
 
